@@ -89,6 +89,11 @@ teaching_assistant = [
     ('Fall 2019', 'MATH 36a', 'Probability', 'Brandeis University · Instructor: Denis Patterson', None),
 ]
 
+featured_photos = [
+    ('teaching-at-blackboard.jpg', 'Zihao Liu teaching at a blackboard.', 'Photo by Yuxin Yan'),
+    ('zihao-at-table.jpg', 'Zihao Liu sitting at a table with friends.', 'Photo by Yiqian Wang'),
+]
+
 photos = [
     ('great-smoky-mountains.jpg', 'Great Smoky Mountains', 'Hiking in the Great Smoky Mountains.'),
     ('rainbow-falls.jpg', 'Rainbow Falls', 'With Shuxian Song, Jia Wan, and Zhihao Mu at Rainbow Falls.'),
